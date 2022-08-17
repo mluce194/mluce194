@@ -1,4 +1,10 @@
 ### Hi there 👋
+I have been working in the Web industry for 18 years.
+- :arrow_left:**I was**: Web designer, Webmaster, Web whatever
+- :arrow_up:**I am:** SEO and marketing digital consultant, WordPress Web developer, front-end developer
+- :arrow_right:**I am planning to become:** a front-end developer specialised in SEO
+- 🌱 **I’m currently learning:** VueJS, ReactJS, Javascript, Typescript, Git versioning, automated tests...
+- 👯 **I’m looking to collaborate** on a team project where I can develop my front-end skills.
 
 <!--
 **mluce194/mluce194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
